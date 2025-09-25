@@ -5,3 +5,4 @@ With the looming threat of climate change, climate simulations are needed to des
 
 DOI: 10.22541/essoar.175396162.29110800/v1
 
+<img width="836" height="899" alt="Image" src="https://github.com/user-attachments/assets/14c99a4c-4d20-461f-9020-0fdd0b7fe75c" />
